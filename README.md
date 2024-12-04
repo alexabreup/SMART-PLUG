@@ -3,7 +3,7 @@
 # Departamento de Projetos Eletromidia / Hardware
 
 ## Visão Geral
-## Visão Geral  
+
 O Projeto Smart Plug é uma solução inovadora baseada em IoT que utiliza o microcontrolador TYWE2S (ESP8266) como núcleo do sistema. O objetivo principal do projeto é fornecer uma maneira eficiente e segura de monitorar e controlar remotamente plugs inteligentes em ambientes remotos externos.  
 
 Com a integração de tecnologias modernas, como as plataformas Pub/Sub com Apache Kafka, ThingsBoard e MQTT, o Smart Plug possibilita funcionalidades como o rearmamento remoto de disjuntores e diagnósticos avançados. Essa solução é projetada para otimizar o uso de energia, aumentar a segurança elétrica e proporcionar maior conveniência ao usuário, especialmente em locais de difícil acesso ou que exijam automação confiável.  
