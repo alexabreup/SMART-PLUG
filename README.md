@@ -59,5 +59,8 @@ Por favor, consulte `CONTRIBUTING.md` para as diretrizes.
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
+## Códigos
+Os códigos até 04/12/2024 foram produzidos pelo técnico Thiago Ferreira e validados pelo engenheiro Henrique Rosa.
+
 ## Agradecimentos
 Agradecimentos especiais à equipe pelo trabalho realizado e à Comunidade de Desenvolvedores pelo suporte.
