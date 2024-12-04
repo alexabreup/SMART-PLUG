@@ -6,7 +6,7 @@
 
 O Projeto Smart Plug é uma solução inovadora baseada em IoT que utiliza o microcontrolador TYWE2S (ESP8266) como núcleo do sistema. O objetivo principal do projeto é fornecer uma maneira eficiente e segura de monitorar e controlar remotamente plugs inteligentes em ambientes remotos externos.  
 
-Com a integração de tecnologias modernas, como as plataformas Pub/Sub com Apache Kafka, ThingsBoard e MQTT, o Smart Plug possibilita funcionalidades como o rearmamento remoto de disjuntores e diagnósticos avançados. Essa solução é projetada para otimizar o uso de energia, aumentar a segurança elétrica e proporcionar maior conveniência ao usuário, especialmente em locais de difícil acesso ou que exijam automação confiável.  
+Com a integração de tecnologia moderna do protocolo MQTT, o Smart Plug possibilita funcionalidades como o rearmamento remoto de disjuntores e diagnósticos avançados. Essa solução é projetada para otimizar o uso de energia, aumentar a segurança elétrica e proporcionar maior conveniência ao usuário, especialmente em locais de difícil acesso ou que exijam automação confiável.  
 
 O projeto permite integração com outros sistemas IoT e suporte a atualizações OTA (Over-The-Air), garantindo a evolução contínua das funcionalidades e a adaptação a diferentes cenários de uso.
 
@@ -19,7 +19,7 @@ O projeto permite integração com outros sistemas IoT e suporte a atualizaçõe
 
 ## Componentes Utilizados
 - **Microcontrolador:** TYWE2S (baseado no ESP8266).
-- **Plataformas de Integração:** ThingsBoard, Pub/Sub com Apache Kafka e MQTT.
+- **Plataforma de Integração:** Brokers que suportem o protocolo MQTT.
 - **Firmware:** Firmware customizado com suporte a atualizações OTA.
 
 ## Estrutura do Repositório
@@ -41,8 +41,8 @@ SmartPlug_GitHub_Repo/
 ```
 
 ## Começando
-1. Clone este repositório: `git clone smartplug`
-2. Navegue até o diretório do projeto: `cd SmartPlug`
+1. Clone este repositório: `git clone https://github.com/alexabreup/SMART-PLUG`
+2. Navegue até o diretório do projeto: `cd SMART-PLUG`
 3. Consulte a pasta **docs/** e o Wiki para instruções de configuração e uso.
 
 ## Documentação
